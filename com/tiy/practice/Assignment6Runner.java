@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by dbashizi on 8/15/16.
  */
 public class Assignment6Runner {
-
+    //This is a comment by Rebecca
     public static void addHarcodedBankAccounts(Bank thisCanBeNamedWhatever, String acctName, double initBal) {
         for (int accountIndex = 0; accountIndex < 5; accountIndex++) {
             BankAccount myAccount = new BankAccount();
